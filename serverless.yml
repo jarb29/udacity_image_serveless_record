@@ -50,6 +50,7 @@ custom:
         contentType: application/json
         schema: ${file(models/create-image-request.json)}
 
+        
 functions:
 
   GetGroups:
